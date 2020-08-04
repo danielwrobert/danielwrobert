@@ -2,4 +2,4 @@
 
 Hello! I'm Dan and I'm a Front-End Engineer at [Automattic](https://automattic/com), living in Greenville, SC.
 
-I currently work on MarTech, the engineering team in the Marketing division, where I collaborate with other Marketing teams to build landing pages and a bunch of fun internal tools.
+I currently work on MarTech, the engineering team in the Marketing division, where I collaborate with the other Marketing teams to build landing pages and a bunch of fun internal tools.
