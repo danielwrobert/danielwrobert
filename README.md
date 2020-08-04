@@ -1,4 +1,4 @@
-![GitHub Profile Image](https://user-images.githubusercontent.com/481776/88956847-fb705c80-d26b-11ea-93e2-8f7190fbede5.jpg)
+![GitHub-Profile-Readme](https://user-images.githubusercontent.com/481776/89246742-cf413c80-d5d9-11ea-8da9-75ae1b3a9a5b.jpg)
 
 Hello! I'm Dan and I'm a Front-End Engineer at [Automattic](https://automattic/com), living in Greenville, SC.
 
